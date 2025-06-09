@@ -1,4 +1,4 @@
-### hello.
+### hello. i am marcos diaz vazquez. if you need to reach me: mdv@udel.edu
 
 <!--
 **marcosdiazvazquez/marcosdiazvazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
